@@ -7,3 +7,4 @@ target-ide
 *.class
 *.swp
 .zsh*
+/bin/
